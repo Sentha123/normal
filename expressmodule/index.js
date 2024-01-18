@@ -8,3 +8,12 @@ app.listen(3000,()=>{
 app.get("/",(req,res)=>{
     res.sendStatus(201);
 })
+app.get("/",(req,res)=>{
+    res.sendStatus(201);
+})
+app.get("/",(req,res)=>{
+    res.sendStatus(201);
+})
+app.get("/",(req,res)=>{
+    res.sendStatus(201);
+})
